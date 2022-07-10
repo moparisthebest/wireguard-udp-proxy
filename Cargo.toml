@@ -1,0 +1,17 @@
+[package]
+name = "wireguard-udp-proxy"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["moparisthebest <admin@moparisthebest.com>"]
+
+description = "Proxy wireguard packets from one port to another "
+repository  = "https://code.moparisthebest.com/moparisthebest/wireguard-udp-proxy"
+keywords    = ["wireguard", "proxy", "udp"]
+
+license = "AGPL-3.0-or-later"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
